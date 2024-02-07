@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textColorPrimary">#370000</color>
+    <color name="textColorRed">#C10000</color>
+    <color name="textColorSecondary">#712C2C</color>
+    <color name="progressBarBackground">#8B000833</color>
+    <color name="loadingCardBackground">#F0F1F2</color>
+    <color name="colorOnPrimary">#712C2C</color>
+    <color name="colorOnSecondary">#fff</color>
+    <color name="icon_selected_color">#fff</color>
+</resources>
